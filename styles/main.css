@@ -10,6 +10,9 @@ p, a {
   font-size: 2.2em;
   color: white; }
 
+#sidenav-overlay {
+  display: none !important; }
+
 body {
   background-color: #FFF; }
 
